@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Savla</h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
+<style>background-color:yellow</style>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
