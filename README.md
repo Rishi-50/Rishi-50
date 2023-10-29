@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-50&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-50" /> </p>
 
-- 🔭 I’m currently working on **Market Mix Modelling**
+- 🔭 I’m currently working on **Real Time Object Detection**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
