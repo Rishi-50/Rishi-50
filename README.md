@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishi Savla</h1>
-<h3 align="center">An aspiring Data Scientist from India</h3>
+<h3 align="center">Software Developer and Data Scientist</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-50&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-50" /> </p>
 
-- 🔭 I’m currently working on **Real Time Object Detection**
+- 🔭 I’m currently working on **Third Eye - A device for Real Time Object Detection**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
